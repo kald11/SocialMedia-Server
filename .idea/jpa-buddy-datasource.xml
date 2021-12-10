@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="7af1123b-2c40-439d-8e4c-c36588ecd448" name="SocialMedia-Server" url="jdbc:postgresql://localhost/SocialMedia-Server" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
